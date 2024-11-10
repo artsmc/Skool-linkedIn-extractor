@@ -1,6 +1,9 @@
 # Skool LinkedIn Extractor
 
 The **Skool LinkedIn Extractor** is a Node.js-based tool designed to automate the extraction of LinkedIn profile data. Utilizing Puppeteer and Cheerio, it navigates LinkedIn profiles to gather information such as names, job titles, and company details, storing the data in a structured format for further analysis.
+CHATGPT Conversation URL: https://chatgpt.com/share/67305515-8bc0-8004-90eb-9d3c7c6f6f80
+
+If you or someone you know is interested in automating something for your business I have a few spaces open on my calendar: https://calendly.com/artsmc/one-on-one-chat
 
 ## Features
 
