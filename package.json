@@ -1,0 +1,17 @@
+{
+  "name": "skool-linkin-extractor",
+  "version": "1.0.0",
+  "description": "Extract linkedin URL from comments on Skool communities and then convert it into table data with make.com automation. book some time in calendy if you have automation needs: https://calendly.com/artsmc/one-on-one-chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "ai",
+    "linkedin",
+    "skool"
+  ],
+  "author": "Mark Campbell (artsmc)",
+  "license": "ISC"
+}
