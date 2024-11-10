@@ -13,5 +13,11 @@
     "skool"
   ],
   "author": "Mark Campbell (artsmc)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "path": "^0.12.7",
+    "puppeteer": "^23.7.1"
+  }
 }
